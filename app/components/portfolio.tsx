@@ -12,36 +12,6 @@ export default function Portfolio() {
       description: "Suite parentale luxueuse avec vue panoramique",
       image: "luxury penthouse interior casablanca",
     },
-    {
-      title: "Riad Marrakech Moderne",
-      category: "Riad Contemporain",
-      description: "Fusion tradition et modernité dans un riad classique",
-      image: "modern traditional riad marrakech interior",
-    },
-    {
-      title: "Appartement Fès Épuré",
-      category: "Design Minimaliste",
-      description: "Espace lumineux et fonctionnel avec matériaux nobles",
-      image: "minimalist apartment interior design fes",
-    },
-    {
-      title: "Villa Agadir Côtière",
-      category: "Style Côtier Luxe",
-      description: "Intérieur inspié par la mer et le soleil",
-      image: "coastal luxury villa interior agadir",
-    },
-    {
-      title: "Loft Tanger Industriel",
-      category: "Loft Créatif",
-      description: "Espace ouvert avec accents industriels élégants",
-      image: "industrial loft interior design tanger",
-    },
-    {
-      title: "Maison Rabat Familiale",
-      category: "Résidentiel Spacieux",
-      description: "Ambiance chaleureuse pour toute la famille",
-      image: "family home interior design rabat",
-    },
   ]
 
   return (
